@@ -1,6 +1,5 @@
 # Olá, Sou o Luis Otávio a.k.a Tanese 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${Luis-Tanese}.${your.repo.id})
 
 <!--
 **Luis-Tanese/Luis-Tanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
