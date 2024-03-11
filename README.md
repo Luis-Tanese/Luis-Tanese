@@ -1,4 +1,7 @@
-# <h1 align="center"> Olá, Sou o Luis Otávio a.k.a Tanese 👋</h1>
+# <h1 align="center">👋 Olá, Sou o Luis Otávio a.k.a Tanese 👋</h1>
+
+<p>Gosto de programar como passatempo</p>
+
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Tanese-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
