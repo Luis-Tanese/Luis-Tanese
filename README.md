@@ -2,6 +2,11 @@
 
 <p>Gosto de programar como passatempo e espero conseguir uma carreira com isso</p>
 
+<div align="center">
+    <a href="https://github.com/Luis-Tanese">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luis-Tanese&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Tanese&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Tanese-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
