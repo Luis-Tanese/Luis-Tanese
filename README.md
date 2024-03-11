@@ -1,6 +1,6 @@
 # <h1 align="center">👋 Olá, Sou o Luis Otávio a.k.a Tanese 👋</h1>
 
-<p>Gosto de programar como passatempo</p>
+<p>Gosto de programar como passatempo e espero conseguir uma carreira com isso</p>
 
 
 <div style="display: inline_block" align="center"><br>
