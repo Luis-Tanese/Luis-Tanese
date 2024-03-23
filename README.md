@@ -15,4 +15,5 @@
   <img align="center" alt="Tanese-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tanese-BootStrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tanese-C#" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Tanese-C#" height="45" width="50" src="https://cdn.discordapp.com/icons/578652868328947744/34d601c8494f10062f65ca76688f8e2f.webp">
 </div>
