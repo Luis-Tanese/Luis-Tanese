@@ -1,6 +1,7 @@
 <h1 align="center">👋Hello, I'm Luis a.k.a Tanese👋</h1>
 
 <p>I'm a Brazillian developer</p>
+<p>Learning C# and JAVA for now...</p>
 
 <div align="center">
     <a href="https://github.com/Luis-Tanese">
