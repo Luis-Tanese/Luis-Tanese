@@ -1,7 +1,7 @@
 <h1 align="center">👋Hello, I'm Luis a.k.a Tanese👋</h1>
 
 <p>I'm a Brazillian developer</p>
-<p>Learning C# and Java for now...</p>
+<p>Learning C# for now...</p>
 
 <div align="center">
     <a href="https://github.com/Luis-Tanese">
@@ -13,6 +13,5 @@
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Tanese-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Tanese-C#" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Tanese-Java" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div>
 
