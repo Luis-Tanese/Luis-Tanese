@@ -13,7 +13,7 @@
 <div>
     <h3>A project I'm working on:</h3>
     <a href="https://github.com/Luis-Tanese/osu-profile-stats/" target="_blank">
-        <img src="https://osu-profile-stats.vercel.app/api/profile-stats/tanese?background=bg1" height="245" alt="stats" class="stats">
+        <img src="https://osu-profile-stats.vercel.app/api/profile-stats/tanese?background=bg1" height="245" alt="stats">
     </a>
 </div>
 
