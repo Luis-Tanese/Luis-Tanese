@@ -1,7 +1,7 @@
 # Hello, I'm Luis a.k.a Tanese
 
 <h4>I'm a Brazillian developer and I like making random things.</h4>
-<h4>God I really need to update some of my ollder projects...</h4>
+<h4>God I really need to update some of my older projects...</h4>
 <br>
 <div align="center">
     <a href="https://github.com/Luis-Tanese">
