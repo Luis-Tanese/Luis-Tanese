@@ -39,20 +39,3 @@
 <a href="https://github.com/Luis-Tanese/osu-profile-stats/" target="_blank">
     <img src="https://osu-profile-stats.vercel.app/api/profile-stats/tanese" height="130" alt="stats">
 </a>
-
----
-
-## 📫 Contact Me
-
-Find me on:
-<div>
-  <a href="https://www.linkedin.com/in/luis-tanese-78b592338/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/728260260674011146" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="mailto:luistanese@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
