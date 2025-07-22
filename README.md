@@ -8,7 +8,6 @@
 <br>
 <div align="left">
         <a href="https://github.com/Luis-Tanese"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Tanese&show_icons=true&include_all_commits=true&count_private=true&bg_color=301934&title_color=00E5FF&icon_color=FF1493&text_color=FFFFFF&hide_border=true&ring_color=9400D3"/></a>
-        <a href="https://github.com/Luis-Tanese"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Tanese&layout=compact&langs_count=10&count_private=true&bg_color=301934&title_color=00E5FF&text_color=FFFFFF&hide_border=true"/></a>
 </div>
 
 # 🛠️ Tech Stack
