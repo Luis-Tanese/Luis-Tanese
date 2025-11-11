@@ -7,7 +7,8 @@
 <h4>I'm a Brazillian developer and I like making projects in my free time.</h4>
 <br>
 <div align="left">
-        <a href="https://github.com/Luis-Tanese"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Tanese&show_icons=true&include_all_commits=true&count_private=true&bg_color=301934&title_color=00E5FF&icon_color=FF1493&text_color=FFFFFF&hide_border=true&ring_color=9400D3"/></a>
+    <a href="https://github.com/Luis-Tanese"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Tanese&show_icons=true&include_all_commits=true&count_private=true&bg_color=301934&title_color=00E5FF&icon_color=FF1493&text_color=FFFFFF&hide_border=true&ring_color=9400D3"/></a>
+    <img src="./assets/womperson.png" height="165" align="right" style="margin-left: 10px;"/>
 </div>
 
 # 🛠️ Tech Stack
