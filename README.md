@@ -2,6 +2,8 @@
         <img src="./assets/banner.svg" height="250" />
 </div>
 
+<hr>
+
 # Hello, I'm Luis a.k.a Tanese 👋
 
 <h4>I'm a Brazillian developer and I like making projects in my free time.</h4>
@@ -10,6 +12,8 @@
     <a href="https://github.com/Luis-Tanese"><img height="165" src="https://github-readme-stats.vercel.app/api?username=Luis-Tanese&show_icons=true&include_all_commits=true&count_private=true&bg_color=301934&title_color=00E5FF&icon_color=FF1493&text_color=FFFFFF&hide_border=true&ring_color=9400D3"/></a>
     <img src="./assets/womperson.png" height="165" align="right" style="margin-left: 10px;"/>
 </div>
+
+<hr>
 
 # 🛠️ Tech Stack
 
@@ -39,6 +43,8 @@
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 ![](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+<hr>
 
 # 🚀 My Projects
 
