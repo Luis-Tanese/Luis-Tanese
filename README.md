@@ -49,6 +49,8 @@
 # My Projects
 
 <h3><a href="https://github.com/Luis-Tanese/osu-profile-stats/" target="_blank">Osu Stats Cards</a></h3>
+<!--
 <a href="https://github.com/Luis-Tanese/osu-profile-stats/" target="_blank">
     <img src="https://osu-profile-stats.vercel.app/api/profile-stats/tanese" height="130" alt="stats">
 </a>
+-->
